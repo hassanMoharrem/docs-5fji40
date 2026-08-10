@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-5z2wxv.simits-pagos.top/sitemap.xml
